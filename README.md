@@ -6,7 +6,7 @@ This project implements a simple address book API using FastAPI, allowing users 
 # 1. Clone the Repository
 '''bash
 git clone <repository-url>
-cd address_book
+cd address_book'''
 
 # 2. Set Up Virtual Environment
 Create and activate a virtual environment (recommended):
